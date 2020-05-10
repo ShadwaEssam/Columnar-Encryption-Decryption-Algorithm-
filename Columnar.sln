@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Columnar", "Columnar.csproj", "{85CE1D2F-DBF7-4A90-A440-2E9E54FD6732}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|anycpu = Debug|anycpu
+		Release|anycpu = Release|anycpu
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{85CE1D2F-DBF7-4A90-A440-2E9E54FD6732}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{85CE1D2F-DBF7-4A90-A440-2E9E54FD6732}.Debug|anycpu.Build.0 = Debug|anycpu
+		{85CE1D2F-DBF7-4A90-A440-2E9E54FD6732}.Release|anycpu.ActiveCfg = Release|anycpu
+		{85CE1D2F-DBF7-4A90-A440-2E9E54FD6732}.Release|anycpu.Build.0 = Release|anycpu
+	EndGlobalSection
+EndGlobal
